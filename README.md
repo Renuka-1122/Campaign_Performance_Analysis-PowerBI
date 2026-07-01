@@ -3,12 +3,14 @@ Project Overview:
 A company runs campaigns across realstate and other metrics. For different campaigns leads are from multiple sources contacted AI powered voice bots.Based on conversations bot seperated the leads into different categories like Qualified, IntentQualifies, Disqualifies etc.... The objective of this project is to identify the Best Performing Sources, Performance breakdown of each source across campaigns, Deep Analysis of Source 5 to identify patterns that contribute to the sucess for source 5, Campaign Specific Analysis to understand what worked and what didn't worked for specific campaign and Automation.
 
 Business Outcomes:
+
 ---> Analyze Best performance sources
 ---> Performance Breakdown of sources across campaigns
 ---> Source 5 Deep Analysis to find attributes
 ---> Campaign Specific Analysis
 
 Dataset:
+
 Campaign_data - Details of leads contacted across all campaigns and include all status
 Campaign_souce - Each lead which source it came from
 Campaign_to_Source5 - It gives detailed metadata of leads from source 5 that are used in campaign
@@ -17,6 +19,7 @@ QL_to_Source - Source and category where applicable for each qualified lead
 QL_to_source 5 - Detailed fields for qualified leads from source5
 
 Tools Used:
+
 Power BI
 Power Query
 DAX
@@ -40,6 +43,7 @@ Excel
  For Dean campaign total leads, qualifies leads, conversion rate KPI's are plotted. Bar chart is plotted between total leads and sources. Source 2 had more leads foe dean campaign. Conversion rate across different sources plotted in column chart. And Lead status distribution is plotted in Donut chart. Follow up status had more percentage.
 
  Key Insights:
+ 
  --> Source 2 has Best Conversion rate compared to other sources.
  --> Age band between 50-54 has more credit utilization
  --> Dean campaign performs best than other campaigns
