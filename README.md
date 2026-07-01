@@ -36,7 +36,13 @@ Excel
 
  ![image alt](https://github.com/Renuka-1122/Campaign_Performance_Analysis-PowerBI/blob/d217e3579bb4107b5df4cbe1f1297a5f5c4a77be/Specific%20Campaign%20Analysis.png)
 
- 
+ For Dean campaign total leads, qualifies leads, conversion rate KPI's are plotted. Bar chart is plotted between total leads and sources. Source 2 had more leads foe dean campaign. Conversion rate across different sources plotted in column chart. And Lead status distribution is plotted in Donut chart. Follow up status had more percentage.
+
+ Key Insights:
+ --> Source 2 has Best Conversion rate compared to other sources.
+ --> Age band between 50-54 has more credit utilization
+ --> Dean campaign performs best than other campaigns
+ --> Higher credit score bands contained the largest share of Source5 leads.
  
  
 
