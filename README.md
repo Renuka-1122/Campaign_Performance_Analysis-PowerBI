@@ -28,6 +28,7 @@ Excel
  Total leads, Qualified leads and conversion are the key KPI's. Column chart is plotted between Sources and conversion rate to find best performing Source. Source2 had high  conversion rate compared to other sources. Matrix visuals is plotted for performance brakdown of each source across all campaigns.
 
  2.Source 5 Deep Analysis
+ ![image alt](https://github.com/Renuka-1122/Campaign_Performance_Analysis-PowerBI/blob/a84e96ceb759b1464f71f7a4fb1799d48fbaab35/Source%205%20Deep%20Analysis.png)
  
  
 
