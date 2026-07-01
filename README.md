@@ -1,4 +1,5 @@
 Project Overview:
+
 A company runs campaigns across realstate and other metrics. For different campaigns leads are from multiple sources contacted AI powered voice bots.Based on conversations bot seperated the leads into different categories like Qualified, IntentQualifies, Disqualifies etc.... The objective of this project is to identify the Best Performing Sources, Performance breakdown of each source across campaigns, Deep Analysis of Source 5 to identify patterns that contribute to the sucess for source 5, Campaign Specific Analysis to understand what worked and what didn't worked for specific campaign and Automation.
 
 Business Outcomes:
