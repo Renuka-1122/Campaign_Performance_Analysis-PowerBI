@@ -29,7 +29,14 @@ Excel
 
  2.Source 5 Deep Analysis
  ![image alt](https://github.com/Renuka-1122/Campaign_Performance_Analysis-PowerBI/blob/a84e96ceb759b1464f71f7a4fb1799d48fbaab35/Source%205%20Deep%20Analysis.png)
+ 
  Total leads, Qualified leads, Conversion rate KPI's are plotted for Source5. Bar chart is plotted between top 10 cities and conversition rate. City Thumakuru has best      conversion rate and Benguluru has low conversion among top 10 cities. Column chart is plotted between Total leads and credit score. More amount of leads are from people who have more than 700 credit score. Column chart is plotted between Age band and credit card utilization. People age between 50-54 are using more credit cards. 
+
+ 3.Specific Campaign Analysis
+
+ ![image alt](https://github.com/Renuka-1122/Campaign_Performance_Analysis-PowerBI/blob/d217e3579bb4107b5df4cbe1f1297a5f5c4a77be/Specific%20Campaign%20Analysis.png)
+
+ 
  
  
 
