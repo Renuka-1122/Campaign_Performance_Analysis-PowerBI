@@ -1,13 +1,15 @@
 Project Overview:
 
-A company runs campaigns across realstate and other metrics. For different campaigns leads are from multiple sources contacted AI powered voice bots.Based on conversations bot seperated the leads into different categories like Qualified, IntentQualifies, Disqualifies etc.... The objective of this project is to identify the Best Performing Sources, Performance breakdown of each source across campaigns, Deep Analysis of Source 5 to identify patterns that contribute to the sucess for source 5, Campaign Specific Analysis to understand what worked and what didn't worked for specific campaign and Automation.
+This project analyzes historical campaign data using Power BI to evaluate the performance of different lead sources across multiple marketing campaigns. Leads are contacted through AI-powered voice bots and classified into outcomes such as Qualified, Intent Qualified, and Disqualified based on the conversation.
+
+The objective is to identify the best-performing lead sources, compare campaign performance, perform a deep dive into Source5 to uncover qualification patterns, analyze a specific campaign, and propose an automation strategy for recurring reporting. The project demonstrates data cleaning, data modeling, DAX, interactive dashboards, and business-driven insights.
 
 Business Outcomes:
 
----> Analyze Best performance sources
----> Performance Breakdown of sources across campaigns
----> Source 5 Deep Analysis to find attributes
----> Campaign Specific Analysis
+---> Identify the best-performing lead sources based on qualification rate and overall performance.
+---> Compare source performance across different campaigns to identify consistent trends.
+---> Perform a deep dive into Source5 to uncover customer attributes associated with higher qualification rates.
+---> Conduct a campaign-specific analysis to evaluate what worked, identify improvement areas, and recommend the most effective sources and categories for future campaigns.
 
 Dataset:
 
@@ -29,25 +31,28 @@ Excel
  1.Best Performing Source And Performance Breakdown
  ![iamge alt](https://github.com/Renuka-1122/Campaign_Performance_Analysis-PowerBI/blob/5faba98cd0325df40b007a7955a4d55945aea61f/Performance%20Breakdown.png)
 
- Total leads, Qualified leads and conversion are the key KPI's. Column chart is plotted between Sources and conversion rate to find best performing Source. Source2 had high  conversion rate compared to other sources. Matrix visuals is plotted for performance brakdown of each source across all campaigns.Source , Campaign code and lead status  are slicers to filter the visuals.
+ A column chart compares the conversion rate across different lead sources, helping identify the best-performing source. Based on the analysis, Source2 achieved the highest conversion rate, indicating the best lead quality among all sources. A matrix visual presents a detailed performance breakdown of each source across different campaigns, making it easy to compare campaign effectiveness. Interactive Source, Campaign Code, and Lead Status slicers allow users to filter the dashboard and explore the data dynamically. Source2 recorded the highest conversion rate.
+ 
 
  2.Source 5 Deep Analysis
  ![image alt](https://github.com/Renuka-1122/Campaign_Performance_Analysis-PowerBI/blob/a84e96ceb759b1464f71f7a4fb1799d48fbaab35/Source%205%20Deep%20Analysis.png)
  
- Total leads, Qualified leads, Conversion rate KPI's are plotted for Source5. Bar chart is plotted between top 10 cities and conversition rate. City Thumakuru has best      conversion rate and Benguluru has low conversion among top 10 cities. Column chart is plotted between Total leads and credit score. More amount of leads are from people who have more than 700 credit score. Column chart is plotted between Age band and credit card utilization. People age between 50-54 are using more credit cards. 
+This dashboard provides an in-depth analysis of Source5 by examining the characteristics of its leads. It includes key KPIs such as Total Leads, Qualified Leads, and Conversion Rate to give an overall view of Source5's performance.
+A bar chart compares the conversion rate across the top 10 cities, where Tumakuru recorded the highest conversion rate, while Bengaluru had the lowest conversion rate among the top 10 cities. A column chart shows the distribution of leads based on credit score, indicating that most Source5 leads have a credit score above 700. Another column chart compares the average credit utilization across different age groups, showing that customers in the 50–54 age group have the highest average credit utilization.
 
  3.Specific Campaign Analysis
 
  ![image alt](https://github.com/Renuka-1122/Campaign_Performance_Analysis-PowerBI/blob/d217e3579bb4107b5df4cbe1f1297a5f5c4a77be/Specific%20Campaign%20Analysis.png)
 
- For Dean campaign total leads, qualifies leads, conversion rate KPI's are plotted. Bar chart is plotted between total leads and sources. Source 2 had more leads foe dean campaign. Conversion rate across different sources plotted in column chart. And Lead status distribution is plotted in Donut chart. Follow up status had more percentage.
+ This dashboard provides a detailed analysis of the Dean campaign to understand its overall performance and identify the lead sources that performed well.
+ A bar chart compares the total leads generated by each source, where Source2 generated the highest number of leads for the Dean campaign. A column chart shows the conversion rate across different sources, making it easy to compare which source delivered better-quality leads. The donut chart displays the distribution of lead statuses, where Follow-up accounts for the highest percentage, indicating that a large number of leads still require further follow-up.
 
  Key Insights:
  
- --> Source 2 has Best Conversion rate compared to other sources.
- --> Age band between 50-54 has more credit utilization
- --> Dean campaign performs best than other campaigns
- --> Higher credit score bands contained the largest share of Source5 leads.
+ --> Source2 achieved the highest conversion rate among all lead sources.
+ --> Customers in the 50–54 age group showed the highest average credit utilization.
+ --> The Dean campaign delivered the best overall performance compared to the other campaigns.
+ --> Most Source5 leads belonged to the higher credit score bands (700+), indicating better credit profiles.
  
  
 
