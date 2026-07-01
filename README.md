@@ -24,6 +24,11 @@ Excel
 
  1.Best Performing Source And Performance Breakdown
  ![iamge alt](https://github.com/Renuka-1122/Campaign_Performance_Analysis-PowerBI/blob/5faba98cd0325df40b007a7955a4d55945aea61f/Performance%20Breakdown.png)
+
+ Total leads, Qualified leads and conversion are the key KPI's. Column chart is plotted between Sources and conversion rate to find best performing Source. Source2 had high  conversion rate compared to other sources. Matrix visuals is plotted for performance brakdown of each source across all campaigns.
+
+ 2.Source 5 Deep Analysis
+ 
  
 
 
